@@ -22,7 +22,7 @@
 
         <meta-data
             android:name="com.razorpay.ApiKey"
-            android:value="<YOUR API KEY ID>"/>
+            android:value="rzp_test_VpDTgsiX9ixrwD"/>
 
 
     </application>
